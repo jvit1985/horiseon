@@ -4,3 +4,7 @@ Optimize a website for accessibility and search engine optimization. Created lin
 Separate CSS Stylesheet for multiple elements included in file
 
 Separate images folder to internally reference images within file.
+
+Deployed website URL: https://jvit1985.github.io/horiseon/
+
+Screenshot:
